@@ -1,0 +1,7 @@
+C:\Users\Rafael\Desktop\Projetos\UsingLinq\obj\Debug\UsingLinq.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Projetos\UsingLinq\obj\Debug\UsingLinq.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Projetos\UsingLinq\bin\Debug\UsingLinq.exe.config
+C:\Users\Rafael\Desktop\Projetos\UsingLinq\bin\Debug\UsingLinq.exe
+C:\Users\Rafael\Desktop\Projetos\UsingLinq\bin\Debug\UsingLinq.pdb
+C:\Users\Rafael\Desktop\Projetos\UsingLinq\obj\Debug\UsingLinq.exe
+C:\Users\Rafael\Desktop\Projetos\UsingLinq\obj\Debug\UsingLinq.pdb
